@@ -30,7 +30,7 @@ function Course() {
             repellendus accusamus accusantium sed architecto odio, nisi expedita
             quas quidem nesciunt debitis dolore non aspernatur praesentium
             assumenda sint quibusdam, perspiciatis, explicabo sequi fugiat amet
-            animi eos aut. Nobis quisquam reiciendis sunt quis sed magnam
+            animi eos aut.. Nobis quisquam reiciendis sunt quis sed magnam
             consequatur!
           </p>
           <Link to="/">
